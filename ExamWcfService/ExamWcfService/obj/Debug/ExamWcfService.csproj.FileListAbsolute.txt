@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\obj\Debug\ExamWcfService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\bin\ExamWcfService.dll.config
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\bin\ExamWcfService.dll
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\bin\ExamWcfService.pdb
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\bin\EntityFramework.dll
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\bin\EntityFramework.xml
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\obj\Debug\ExamWcfService.dll
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\obj\Debug\ExamWcfService.pdb
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\obj\Debug\ExamWcfService.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\obj\Debug\ExamWcfService.Migrations.Chinh.resources
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\obj\Debug\ExamWcfService.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ExamEAP\ExamWcfService\ExamWcfService\obj\Debug\ExamWcfService.Migrations.update.resources
